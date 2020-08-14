@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name='DemoStick'
+include ':java'
+include ':openCVLibrary342'
